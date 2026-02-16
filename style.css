@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #dbeafe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather {
+  background: white;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 15px;
+}
